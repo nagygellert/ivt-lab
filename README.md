@@ -1,9 +1,7 @@
 # IVT Spaceship
-<<<<<<< HEAD
 # Merge Conflict branch-A
-=======
-# Merge Conflict branch-A
->>>>>>> branch-B
+# Merge Conflict branch-B
+
 
 This is a sample application for the [Integration and Verification Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT.
 
