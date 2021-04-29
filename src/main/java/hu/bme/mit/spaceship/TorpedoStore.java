@@ -14,6 +14,8 @@ public class TorpedoStore {
   private double FAILURE_RATE = 0.0; //NOSONAR
 
   private int torpedoCount = 0;
+
+  //SecureRandom class is more robust than Random class.
   private Random rand = new SecureRandom();
 
   public TorpedoStore(int numberOfTorpedos){
